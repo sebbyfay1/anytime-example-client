@@ -1,0 +1,16 @@
+{
+  "points": "Points",
+  "three_points_made": "Threes",
+  "rebounds": "Points",
+  "assists": "Assists",
+  "steals": "Steals",
+  "blocks": "Blocks",
+  "turnovers": "Turnovers",
+  "points_assists": "Points + Assists",
+  "points_rebounds": "Points + Rebounds",
+  "rebounds_assists": "Rebounds + Assists",
+  "points_rebounds_assists": "Points + Rebounds + Assists",
+  "steals_blocks": "Steals + Blocks",
+  "double_double": "Double Double",
+  "triple_double": "Triple Double"
+}

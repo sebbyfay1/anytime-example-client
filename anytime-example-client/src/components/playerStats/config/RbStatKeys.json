@@ -1,0 +1,15 @@
+{
+  "rush_att": "Rushing Attempts",
+  "rush_lng_td": "Longest Rushing Touchdown",
+  "rush_lng_yds": "Longest Rush",
+  "rush_td": "Rushing Touchdowns",
+  "rush_yds": "Rushing Yards",
+  "rush_rec_yds": "Rushing + Receiving Yards",
+  "rec_lng_td": "Longest Receiving Touchdown",
+  "rec_lng_yds": "Longest Reception",
+  "rec_rec": "Receptions",
+  "rec_td": "Receiving Touchdowns",
+  "rec_tgt": "Targets",
+  "rec_yds": "Receiving Yards",  
+  "td_scored": "Total Touchdowns"
+}

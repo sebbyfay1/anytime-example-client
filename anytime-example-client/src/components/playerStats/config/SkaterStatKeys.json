@@ -1,0 +1,9 @@
+{
+  "goals": "Goals",
+  "assists": "Assists",
+  "points": "Points",
+  "shots": "Shots",
+  "hits": "Hits",
+  "blocked_shots": "Blocked Shots",
+  "faceoffs_won": "Faceoffs Won"
+}

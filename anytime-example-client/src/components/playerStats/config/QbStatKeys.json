@@ -1,0 +1,16 @@
+{
+  "pass_att": "Pass Attempts",
+  "pass_cmp": "Completions",
+  "pass_int": "Interceptions",
+  "pass_lng_td": "Longest Passing Touchdown",
+  "pass_lng_yds": "Longest Pass",
+  "pass_sacks": "Sacks",
+  "pass_td": "Passing Touchdowns",
+  "pass_yds": "Passing Yards",
+  "rush_att": "Rushing Attempts",
+  "rush_lng_td": "Longest Rushing Touchdown",
+  "rush_lng_yds": "Longest Rush",
+  "rush_td": "Rushing Touchdowns",
+  "rush_yds": "Rushing Yards",
+  "td_scored": "Total Touchdowns"
+}
