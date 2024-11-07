@@ -1,7 +1,9 @@
+import { APIKEY } from './apiKey';
+
 export const fetchPlayersOnTeam = async (leagueId, teamId) => {
   try {
     const response = await fetch(
-      `https://api.anytimelabs.io/v1beta/leagues/${leagueId}/teams/${teamId}/players`,
+      `https://api.anytimelabs.io/v1beta/leagues/${leagueId}/teams/${teamId}/players?key=${APIKEY}`,
       {
         method: 'GET',
         headers: {

@@ -1,7 +1,9 @@
+import { APIKEY } from './apiKey';
+
 export const fetchPlayerAverages = async (leagueId, playerId, conditions) => {
   try {
     const response = await fetch(
-      `https://api.anytimelabs.io/v1beta/leagues/${leagueId}/players/${playerId}/averages`,
+      `https://api.anytimelabs.io/v1beta/leagues/${leagueId}/players/${playerId}/averages?key=${APIKEY}`,
       {
         method: 'POST',
         headers: {
