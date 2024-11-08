@@ -29,7 +29,7 @@ export const fetchPlayerAverages = async (leagueId, playerId, conditions) => {
 export const fetchPlayerGameLogs = async (leagueId, playerId, conditions) => {
   try {
     const response = await fetch(
-      `https://api.anytimelabs.io/v1beta/leagues/${leagueId}/players/${playerId}/game-logs`,
+      `https://api.anytimelabs.io/v1beta/leagues/${leagueId}/players/${playerId}/game-logs?key=${APIKEY}`,
       {
         method: 'POST',
         headers: {
